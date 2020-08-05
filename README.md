@@ -1,3 +1,3 @@
-# EDA-for-covid-19-india
+# World Happiness Report
 
-does eda on covid-19 dataset(india)
+Did EDA on a dataset containing world happiness report of different countries from the year 2015 to 2019.
